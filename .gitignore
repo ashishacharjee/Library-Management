@@ -1,12 +1,14 @@
-# Byte-compiled / optimized / DLL files
 __pycache__/
 *.pyc
 
-# Virtual environment
+# Virtual environments
 venv/
 .venv/
 .env
 
-# Editor/IDE files
+# IDE/Editor
 .vscode/
 .idea/
+
+# Config file with sensitive data
+config.py
